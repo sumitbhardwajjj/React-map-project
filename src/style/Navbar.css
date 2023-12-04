@@ -1,0 +1,43 @@
+.navbar{
+    height:40px;
+    border-bottom: 0.5px solid rgb(235, 225, 225);
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.wrapper{
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:  0.5px solid rgb(235, 225, 225);
+    padding: 3px;
+}
+
+input{
+    border: none;
+    outline: none;
+    font-size: 14px; 
+}
+
+.items{
+    display: flex;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.span{
+    color: red;
+}
+
+
