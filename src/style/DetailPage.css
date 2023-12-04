@@ -49,6 +49,8 @@ b{
     text-decoration: none;
 }
 
+
+
 @media(max-width:900px){
     .container{
         justify-content: center;
@@ -62,5 +64,6 @@ b{
     }
     .desc{
         padding: 10px;
+        text-align: center;
     }
 }
